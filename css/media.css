@@ -1,0 +1,927 @@
+@media(min-width:1200px) and (max-width:1400px){
+    .feature_head p { 
+        padding: 0px 255px; 
+    }
+    .tripod_head h3 { 
+        padding: 0px 28px;
+    }
+    .ft_full h4 { 
+        padding: 15px 17px;
+        margin: 0px 20px; 
+        font-size: 20px;
+        text-align: center;
+    }
+    .right_list ul li { 
+        padding-bottom: 16px;
+    }
+    .left_list ul li { 
+        padding-bottom: 16px;
+    }
+    .lates_head h4 {
+        padding: 0px 25px 25px 25px; 
+        line-height: 26px;
+        font-size: 18px; 
+        margin-bottom: 0px;
+    }
+    .lates_head2 h4 {
+        padding: 0px 25px 25px 25px; 
+        line-height: 26px;
+        font-size: 18px; 
+        margin-bottom: 0px;
+    }
+    .detail_p p {
+        padding: 18px 14px;
+        font-size: 14px; 
+        line-height: 24px; 
+    }
+    .man_btn button {
+        width: 128px;
+        height: 38px; 
+        font-size: 18px; 
+    }
+    .man_btn {
+        padding-bottom: 20px;
+    }
+    .tripod { 
+        text-align: center;
+    }
+    ol, ul {
+        padding-left: 0rem;
+    }
+    .right_list{
+        display: inline-block;
+    }
+    .left_list{
+        display: inline-block;
+    } 
+    .ft_full h4 { 
+        padding: 8px 21px;
+        margin: 0px 0px; 
+        font-size: 20px;
+    }
+    .left_list ul li { 
+        padding-bottom: 16px;
+        font-size: 15px;
+    }
+    .right_list ul li { 
+        padding-bottom: 16px;
+        font-size: 15px;
+    }
+}
+
+
+
+@media(min-width:992px) and (max-width:1199px){
+    .ban_content h2 { 
+        font-size: 60px;
+        line-height: 80px; 
+    }
+    .ban_txt_span { 
+        font-size: 52px; 
+    }
+    .ban_camera { 
+        top: 143px; 
+    }
+    .ban_camera img{
+        height: 516px;
+    }
+    #features {
+        margin-top: 93px;
+    }
+    .feature_head p { 
+        padding: 0px 183px; 
+    }
+    .item_one::after {  
+        display: none;
+    }
+    .item_one::before {  
+        display: none;
+    }
+    .f_midle_i1 img{
+        height: 360px ;
+    }
+    #questions {
+        margin-top: 140px;
+    }
+    .f_midle_i2 { 
+        top: -9px;
+        left: 12%;
+    }
+    .f_midle_i2 img {
+        height: 180px;
+    }
+    .subscribe_from {
+        padding: 20px 20px; 
+    }
+    .subscribe_from h3 { 
+        font-size: 21px;
+        line-height: 30px; 
+        text-align: center;
+    }
+    .subscribe_from p { 
+        font-size: 14px;
+        line-height: 24px; 
+        padding-right: 0px;
+        text-align: center;
+    }
+    .from_sub input { 
+        border: 3px solid #bbbbbb; 
+    }
+    .vintag_left {
+        padding: 0px 70px;
+    }
+    .vintag_left p {
+        padding-top: 15px; 
+    }
+    .vintag_left h3 {
+        font-size: 25px;
+        line-height: 29px; 
+    }   
+    .tripod { 
+        padding-top: 14px;
+        padding-bottom: 16px; 
+    }
+    .tripod_head h3 {
+        font-size: 18px;
+        line-height: 21px;
+        padding: 0px 0px;
+    } 
+    ol, ul {
+        padding-left: 0rem;
+    }
+    .right_list{
+        display: inline-block;
+    }
+    .left_list{
+        display: inline-block;
+    } 
+    .ft_full h4 { 
+        padding: 8px 21px;
+        margin: 0px 0px; 
+        font-size: 20px;
+    }
+    .left_list ul li { 
+        padding-bottom: 12px;
+        font-size: 15px;
+    }
+    .right_list ul li { 
+        padding-bottom: 12px;
+        font-size: 15px;
+    }
+    .test_txt p { 
+        padding: 0px;
+    }
+    .left_test { 
+        left: 42%; 
+    }
+    #latest_news {
+        margin-top: 70px; 
+    }
+    .latest_right_content { 
+        padding-top: 11px; 
+    }
+    .lates_head h4 { 
+        line-height: 20px;
+        font-size: 16px; 
+        padding: 0px 10px;
+        text-align: center;
+    }
+    .lates_head2 h4 { 
+        line-height: 20px;
+        font-size: 16px; 
+        padding: 0px 10px;
+        text-align: center;
+    }
+    .latest_man_detail {
+        padding-left: 10px;
+    }
+    .detail_p p {
+        padding: 2px 5px;
+        font-size: 13px; 
+        line-height: 20px; 
+    }
+    .man_btn {
+        padding-bottom: 12px;
+        margin-top: 10px;
+    }
+    .man_btn button {
+        width: 128px;
+        height: 45px; 
+    }
+    .prev_txt h6 { 
+        font-size: 16px; 
+        padding-left: 24px;
+        padding-right: 14px;
+        line-height: 19px;
+        padding-top: 9px;
+    }
+    .prev_txt2 h6 { 
+        font-size: 16px; 
+        padding-left: 24px;
+        padding-right: 14px;
+        line-height: 19px;
+        padding-top: 9px;
+    }
+    .prev_btn button { 
+        height: 72px; 
+    }
+    .prev_btn2 button { 
+        height: 72px; 
+    }
+    .left_latest { 
+        left: 42%; 
+    }
+    .location{
+        margin: 0 auto;
+        margin-bottom: 10px;
+    } 
+    .location_txt p { 
+        font-size: 13px; 
+    }
+}
+
+
+@media(min-width:768px) and (max-width:991px){
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 14px 0px; 
+        text-align: center;
+        /* background-color: aqua; */
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0px;
+    }
+    .navbar-brand img {
+        width: 140px;
+    }
+    .ban_content h2 { 
+        font-size: 47px;
+        line-height: 58px; 
+    }
+    .ban_txt_span { 
+        font-size: 33px; 
+    }
+    .ban_camera img{
+        height: 408px;
+    }
+    .ban_btn button {
+        padding: 10px 12px; 
+        font-size: 18px; 
+    }
+    #features {
+        margin-top: 85px;
+    }
+    .feature_head p { 
+        padding: 0px; 
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after { 
+        display: none; 
+    }
+    .nav_search { 
+        display: none;
+    }
+    .item_one::after { 
+        display: none;
+    }
+    .item_one::before { 
+        display: none;
+    }
+    .feature_middle{
+        display: none;
+    }
+    .about_content {
+        padding-top: 25px;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+    .about_content h2 {
+        font-size: 35px;
+        line-height: 42px;
+        padding-right: 0px;
+    }
+    .about_content h3 {
+        font-size: 28px;
+        line-height: 22px;
+        padding-right: 0px;
+    }
+    .about_content p {
+        font-size: 13px; 
+        padding-top: 10px; 
+    }
+    .about_btn{
+        text-align: center;
+        padding-top: 20px;
+    }
+    .about_log_camera { 
+        left: 0;
+    }
+    .frequently h2 { 
+        font-size: 26px; 
+        padding-bottom: 21px;
+    }
+    .accordion-header { 
+        line-height: 20px;
+    }
+    .subscribe_from {
+        padding: 25px 30px; 
+    }
+    .subscribe_from h3 { 
+        font-size: 29px;
+        line-height: 33px; 
+    }
+    .subscribe_from p { 
+        font-size: 14px;
+        line-height: 20px; 
+        padding-top: 8px;
+        padding-right: 0px;
+    }
+    .sub_last p { 
+        padding-right: 0px;
+    }
+    .vintag_left {
+        padding: 0px 25px;
+        text-align: center;
+    }
+    .vintag_left p {
+        padding-top: 13px; 
+    }
+    .rang_dark_img img {
+        top: 234px;
+        left: 23%;
+        width: 504px;
+    }
+    .row > * { 
+        padding-right: 0;
+        padding-left: 0; 
+    }
+    .video-play-button { 
+        left: 196%;
+    }
+    .overly_play_button { 
+        left: 0px; 
+    }
+    #product {
+        margin-top: 76px; 
+    }
+    .feature_head p {
+        padding: 0px 50px; 
+    } 
+    .img_product3 img {
+        height: 281px; 
+    }
+    .product_img {
+        margin-right: 25px;
+    } 
+    .camera_stam img { 
+        margin-top: 25px;
+    }
+    .tripod { 
+        margin-top: 25px;
+        text-align: center;
+    }
+    .camera_stam{
+        margin-right: 25px;
+    }
+    .test_txt p { 
+        padding: 0px;
+    }
+    .left_test { 
+        left: 39%; 
+    }
+    .right_test { 
+        left: 47%; 
+    }
+    .latest_right_content { 
+        text-align: center;
+    }
+    .lates_head h4 {
+        padding: 0px 35px 15px 30px; 
+    }
+    .latest_man_detail {
+        padding-left: 0px;
+    }
+    .detail_p p {
+        padding: 20px 22px; 
+    }
+    .man_btn { 
+        padding-top: 30px;
+    }
+    .prev_txt { 
+        padding-top: 20px;
+    }
+    .prev_btn{
+        padding-top: 20px;
+    }
+    .left_latest { 
+        left: 41%; 
+    }
+    .right_latest { 
+        left: 48%; 
+    }
+    .location { 
+        margin: 0 auto;
+    }
+    .location_txt p { 
+        text-align: center;
+    }
+    .left_list ul li { 
+        padding-bottom: 29px;
+    }
+    .right_list ul li { 
+        padding-bottom: 29px;
+    }
+    .feature_left{
+        text-align: center;
+        padding: 0px 161px;
+    }
+    .dark_overly_txt { 
+        left: 385px; 
+    }
+ 
+} 
+
+
+
+@media(min-width:576px) and (max-width:767px){
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 14px 0px; 
+        text-align: center;
+    }
+     
+    .navbar-brand img {
+        width: 140px;
+    }
+    .nav_search { 
+        display: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after { 
+        display: none;
+    }
+    #banner { 
+        padding-bottom: 58px; 
+    } 
+    #features {
+        margin-top: 57px;
+    }
+    .ban_content h2 {
+        font-size: 37px;
+        line-height: 50px;
+        text-align: center;
+    }
+    .ban_camera{
+        display: none;
+    }
+    .ban_txt_span {
+        font-size: 50px;
+    }
+    .ban_btn {
+        margin-top: 31px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .ban_btn button {
+        padding: 8px 12px; 
+        font-size: 19px; 
+    }
+    .feature_head p { 
+        padding: 0px 0px; 
+    }
+    .item_one::after { 
+        display: none;
+    }
+    .item_one { 
+        text-align: center;
+    }
+    .f_midle_i1 { 
+        display: none;
+    }
+    .f_midle_i2 { 
+        display: none;
+    }
+    .about_log_camera { 
+        display: none;
+    }
+    .about_content { 
+        text-align: center;
+    }
+    .about_content h2 { 
+        padding-right: 0px;
+    }
+    .about_content h3 { 
+        padding-right: 0px;
+    }
+    #latest_news {
+        margin-top: 80px; 
+    }
+    .overly_play_button {
+        left: 34%;
+    }
+    .about_content p { 
+        padding-top: 4px; 
+    }
+    .about_btn{
+        text-align: center;
+    }
+    .about_btn button {
+        padding: 7px 16px; 
+        font-size: 19px; 
+    }
+    #questions {
+        margin-top: 80px;
+    }
+    .frequently h2 { 
+        text-align: center;
+    }
+    .subscribe_from { 
+        text-align: center;
+    }
+    .accordion-button { 
+        line-height: 1.2;
+    }
+    .vintag_left {
+        padding: 0px 25px;
+        text-align: center;
+    }
+    .vintag_left p {
+        padding-top: 13px; 
+    }
+    .rang_dark_img img { 
+        top: 234px;
+        left: 16%;
+        width: 500px; 
+    }
+    .row > * { 
+        padding-right: 0;
+        padding-left: 0; 
+    }
+    .video-play-button { 
+        left: 196%;
+    }
+    #product {
+        margin-top: 65px; 
+    } 
+    .product_img { 
+        margin-top: 20px;
+    }
+    /* .img_product3 img {
+        height: 206px;
+    } */
+    .product_img {
+        margin-left: 20px;
+    }
+    .camera_stam img {
+        margin-top: 45px;
+    }
+    .product_img {
+        box-shadow: none;
+    }
+    .dark_overly_txt h5 { 
+        display: none;
+    }
+    .tripod { 
+        text-align: center;
+        margin-top: 20px;
+    }
+    .left_test { 
+        left: 40%;
+    }
+    .overly_play_button { 
+        left: 0px; 
+    }
+    .latest_right_content { 
+        text-align: center;
+    }
+    .lates_head h4 {
+        padding: 0px; 
+        line-height: 15px;
+        font-size: 14px; 
+    }
+    .slick-slide img { 
+        padding-top: 8px;
+    }
+    .author_detail h5 {
+        padding-top: 5px; 
+    }
+    .detail_p p {
+        padding: 3px 3px;
+        font-size: 13px; 
+        line-height: 19px; 
+    }
+    .man_btn {
+        padding-bottom: 20px;
+        margin-top: 20px;
+    }
+    .man_btn button {
+        width: 120px;
+        height: 40px; 
+        font-size: 16px;
+    }
+
+    .lates_head h4 {
+        padding: 0px;
+        line-height: 19px;
+        font-size: 17px;
+    }
+    .lates_head2 h4 {
+        padding: 0px; 
+        line-height: 19px;
+        font-size: 17px; 
+    }
+    .slick-slide img {
+        padding-top: 2px;
+        padding-bottom: 5px;
+    }
+    .left_latest { 
+        left: 42%;
+    }
+    .location { 
+        margin: 0 auto;
+    }
+    .location_txt p { 
+        text-align: center;
+    }
+    .follow {
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+    .footer_menu ul li { 
+        padding: 8px;
+    }
+}
+
+
+@media(max-width:575.99px){
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 14px 0px; 
+        text-align: center;
+    }
+    .navbar-nav{
+        background-color: #89c0f3;
+        position: sticky;
+    }
+    .navbar-brand img{
+        width: 100px;
+    }
+    .nav_search { 
+        display: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after { 
+        display: none;
+    }
+    #banner { 
+        padding-bottom: 58px; 
+    } 
+    #features {
+        margin-top: 57px;
+    }
+    .ban_content h2 {
+        font-size: 30px;
+        line-height: 50px;
+        text-align: center;
+    }
+    .ban_camera{
+        display: none;
+    }
+    .ban_txt_span { 
+        font-size: 37px; 
+    }
+    .ban_btn {
+        margin-top: 31px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .ban_btn button {
+        padding: 6px 5px; 
+        font-size: 18px; 
+    }
+    .feature_head p {
+        font-size: 13px;
+        padding: 0px 0px;
+    }
+    .item_one { 
+        text-align: center;
+    }
+    .item_one::after { 
+        display: none;
+    }
+    .f_midle_i1 { 
+        display: none;
+    }
+    .f_midle_i2 img { 
+        display: none;
+    }
+    .about_log_camera { 
+        display: none;
+    }
+    #about_camera {
+        margin-top: 10px;
+    }
+    .about_content h2 {
+        font-size: 28px;
+        padding-right: 0px;
+        text-align: center;
+    }
+    .about_content h3 {
+        font-size: 25px;
+        line-height: 39px;
+        padding-right: 0px;
+        text-align: center;
+    }
+    .about_content p {
+        font-size: 13px; 
+        line-height: 20px; 
+        padding-top: 0px; 
+        text-align: center;
+    }
+    .about_content { 
+        padding-bottom: 7px;
+    }
+    .about_btn button {
+        padding: 5px 8px; 
+        font-size: 18px; 
+    }
+    .about_btn{
+        text-align: center;
+    } 
+    #questions {
+        margin-top: 60px;
+    }
+    .frequently h2 { 
+        font-size: 24px;
+        line-height: 5px; 
+    } 
+    button, input, optgroup, select, textarea { 
+        line-height: 1.3;
+    }
+    .subscribe_from {
+        padding: 14px 12px; 
+        margin-top: 40px;
+        text-align: center;
+    }
+    .subscribe_from p { 
+        padding-right: 0px;
+    }
+    .sub_last p { 
+        padding-right: 0px;
+    }
+    #rangfinder {
+        margin-top: 45px;
+    }
+    .vintag_left h3 {
+        font-size: 30px;
+        line-height: 36px; 
+        text-align: center;
+    }
+    .vintag_left p {
+        padding-top: 17px;
+        font-size: 13px;
+        line-height: 22px;
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .vintag_left {
+        padding: 0px 0px;
+        text-align: center;
+    }
+    .pe-0 {
+        padding-right: 0;
+    }
+    .overly_play_button { 
+        left: 33%; 
+    }
+    .vintag_left a { 
+        font-size: 13px; 
+    }
+    .vintag_left i{
+        display: none;
+    }
+    .rang_dark_img img {
+        top: 198px;
+        left: 14%;
+        width: 100%; 
+        text-align: center;
+    }
+    .row > * { 
+        padding-right: 0;
+        padding-left: 0; 
+    }
+    .frequently h2 { 
+        text-align: center;
+    }
+    #product {
+        margin-top: 60px; 
+    }
+    .feature_head h2 { 
+        font-size: 25px; 
+    }
+    .product_img { 
+        margin-top: 20px;
+    }
+    .camera_stam img { 
+        margin-top: 20px;
+        box-shadow: none;
+    } 
+    .circle_plus { 
+        right: 7px; 
+    }
+    .circle_txt p { 
+        padding-right: 60px;
+    }
+    .tripod_head h3 { 
+        font-size: 20px; 
+    }
+    .test_txt p { 
+        line-height: 19px;
+        font-size: 13px;
+        padding: 0px 0px;
+    }
+    .test_slide {
+        margin-right: 0px; 
+    }
+
+    .left_test { 
+        left: 33%; 
+    }
+    #latest_news {
+        margin-top: 70px; 
+    }
+    .lates_head h4 {
+        padding: 5px 5px 17px 20px; 
+        font-size: 19px; 
+        text-align: center;
+    }
+    .row > * { 
+        text-align: center;
+    }
+    .author_detail h5 { 
+        padding-left: 40px;
+    }
+    .author_detail h4 { 
+        padding-left: 40px;
+    }
+    .detail_p p {
+        padding: 6px 11px;
+        font-size: 13px; 
+        line-height: 22px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .man_btn button {
+        width: 142px;
+        height: 45px; 
+        font-size: 16px; 
+    }
+    .circle_plus i { 
+        width: 0%; 
+    }
+    .prev_btn button { 
+        display: none;
+    }
+    .prev_btn2 button { 
+        display: none;
+    }
+    .left_latest { 
+        left: 33%; 
+    }
+    .prev_txt::after { 
+        width: 80%; 
+    }
+    .prev_txt2::after { 
+        width: 80%; 
+    }
+    .footer_logo { 
+        padding-bottom: 40px;
+    }
+    .location { 
+        margin: 0 auto;
+    }
+    .location_txt p { 
+        text-align: center;
+        font-size: 13px;
+        padding: 5px 15px;
+    }
+    ol, ul {
+        padding-left: 0rem;
+    }
+    .footer_menu ul li { 
+        padding: 5px;
+    }
+    .copy_right_content p { 
+        font-size: 13px; 
+        /* line-height: 14.2; */
+    }
+    .left_list ul li {
+        text-align: center; 
+    }
+    .lt_overly_txt h6 { 
+        padding: 0px 45px;
+    }
+    .tripod { 
+        margin-top: 20px;
+        box-shadow: none;
+    } 
+    .product_img {
+        box-shadow: none;
+    }
+   
+  
+} 
